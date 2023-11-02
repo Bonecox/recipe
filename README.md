@@ -1,2 +1,2 @@
-# assignment_2
+# recipe
 Data Science Toolbox assignement 2
