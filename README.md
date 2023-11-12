@@ -8,5 +8,4 @@
 - [Roast Beef Tenderloin](https://www.onceuponachef.com/recipes/roast-beef-tenderloin-wine-sauce.html)
 - Please see the ingredients list in ingredients.md
 
-
 Enjoy my recipe <strong>bold text</strong>!
